@@ -1,6 +1,6 @@
 # Auto-gmail-draft-pdf-attatching
-## Thisscript does the follows:
-- Retrieve the most recent pdf file from a specified windows folder: you can change the path in the script
+## This script does the follows:
+- retrieve the most recent pdf file from a specified windows folder: you can change the path in the script
 - rename it to "date - name" : today's date and a variable name that you could modify
 - move it to a different folder, which you could also specify
 - prepare a draft email (gmail) - via the gmail API
