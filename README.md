@@ -8,5 +8,5 @@
 - add the downloaded pdf as an attachment to the email
 - the email remains a draft for you to review before sending
 - you can also unhash a line in the code to make it send the email
-### Please make sure you enable gmail API and create credentials and download the credential json file. you will find detailed explanation in the code. you may be asked to give access to the script through the browser only at the first run.
+### Please make sure you enable gmail API and create credentials and download the credential json file. You will find detailed explanation in the code. You may be asked to give access to the script through the browser only at the first run.
 ### Also make sure to pip install any missing modules. 
